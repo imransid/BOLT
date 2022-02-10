@@ -1,0 +1,12 @@
+export const LOGIN = 'LOGIN';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const CHECKOUT = 'CHECKOUT';
+export const CHECKOUT_SUCCESS = 'CHECKOUT_SUCCESS';
+export const VERIFY = 'VERIFY';
+export const VERIFY_SUCCESS = 'VERIFY_SUCCESS';
+export const LOGOUT = 'LOGOUT';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+export const COUNTER = 'COUNTER';
+export const COUNTER_SUCCESS = 'COUNTER_SUCCESS';
+export const DELETE_ITEM = 'DELETE_ITEM';
+export const DELETE_ITEM_SUCCESS = 'DELETE_ITEM_SUCCESS';
